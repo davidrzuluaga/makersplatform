@@ -1,0 +1,9 @@
+Archivo preguntas
+
+Archivo interfaz
+
+Archivo configuracion
+-comportamiento de las preguntas al iniciar
+   responder pregunta
+        verificar si la pregunta es correcta
+        no= vuelve e inicia; si= siguiente pregunta
